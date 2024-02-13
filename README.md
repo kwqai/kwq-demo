@@ -2,4 +2,4 @@
 This is my first Git Repository.
 <br>
 Author - Khalid Wali
-<This is my second git repository>
+<This is second git repository>
